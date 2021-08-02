@@ -15,10 +15,10 @@
 
                              <div class="row">
                             <div class="col img-cent">
-                                <h3>Book Inventory List</h3>
+                                <h4>Book Inventory List</h4>
                             </div>
                         </div>
-
+                    <!-- edit -->
 
                 <div class="row">
                     <div class="col">
